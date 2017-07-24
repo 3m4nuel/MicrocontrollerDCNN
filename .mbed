@@ -1,0 +1,3 @@
+ROOT=.
+TARGET=disco_l475vg_iot01a
+TOOLCHAIN=GCC_ARM
